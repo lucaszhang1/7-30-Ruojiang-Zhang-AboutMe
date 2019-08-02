@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Ruojiang Zhang</string>
+    <string name="yellow_star">yellow star</string>
+    <string name="bio">My name is Ruojiang Zhang. I am from China. I am a senior next year. I take high school in North Carolina. </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">done</string>
+</resources>
